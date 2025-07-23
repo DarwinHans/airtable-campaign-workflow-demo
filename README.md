@@ -1,6 +1,6 @@
 # 📊 Airtable Campaign Workflow Demo
 
-Este proyecto es una demostración de un flujo de trabajo completo para equipos de marketing que gestionan campañas de contenido. Fue diseñado como parte de un proceso de postulación para el cargo de **Creative Operations Specialist** en Storm Ideas, y tiene como objetivo mostrar la capacidad de estructurar información, automatizar tareas y ofrecer interfaces visuales fáciles de usar con herramientas no-code.
+Este proyecto es una demostración de un flujo de trabajo completo para equipos de marketing que gestionan campañas de contenido. Fue diseñado como parte de un proceso de postulación para el cargo de **Creative Operations Specialist**, y tiene como objetivo mostrar la capacidad de estructurar información, automatizar tareas y ofrecer interfaces visuales fáciles de usar con herramientas no-code.
 
 ---
 
